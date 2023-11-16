@@ -89,5 +89,5 @@ Carlos Melo é <strong>Engenheiro de Visão Computacional</strong> com formaçã
 </p>
 
 <p align="left">
-Rafael Duarte ....
+[Rafael Duarte](https://github.com/rafaelnduarte) é <strong>Cientista de Dados, Colaborador e especialista em Marketing Analytics no Sigmoidal</strong>. Formado em Ciência de Dados, com <strong>MBA e Master's em Big Data e Business Intelligence</strong>.
 </p>
