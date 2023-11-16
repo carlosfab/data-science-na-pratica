@@ -76,7 +76,7 @@ Aqui está um resumo dos passos que você precisa seguir:
 | Módulo | Descrição | Link |
 |--------|-----------|----------------------|
 | **1 - Introdução ao Data Sciece** | Apresentação do conteúdo do curso, conceitos fundamentais da Ciência de Dados e *Data-driven Decisions*. | [Módulo 1](notebooks/01_introducao_ao_data_science) |
-| **2 - Análise e Exploração de Dados** | Aprenda a importar dados, fazer a limpeza e extrair informações relevantes usando a biblioteca `pandas`. | [Módulo 1](notebooks/02_analise_e_exploracao_de_dados) |
+| **2 - Análise e Exploração de Dados** | Aprenda a importar dados, fazer a limpeza e extrair informações relevantes usando a biblioteca `pandas`. | [Módulo 2](notebooks/02_analise_e_exploracao_de_dados) |
 
 ## 🚀 Projetos
 
