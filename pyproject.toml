@@ -26,6 +26,8 @@ ipython = "^8.17.2"
 jupyter = "^1.0.0"
 jupyterlab-quarto = "^0.2.8"
 opencv-python = "^4.8.1.78"
+pandas = "^2.1.3"
+plotly = "^5.18.0"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.12.0"
