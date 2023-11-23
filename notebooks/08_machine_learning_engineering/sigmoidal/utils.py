@@ -144,7 +144,6 @@ def process_df(original_df, month, year):
         df_res.station_id.value_counts() == days_in_month
     ].index
     df_res = df_res[df_res.station_id.isin(popular_stations)]
-    print(df_res.head())    
     return df_res.sort_values(by=['date', 'station_id'])
 
 

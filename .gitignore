@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+__MACOSX/
+notebooks/08_machine_learning_engineering/data/*
 
 # C extensions
 *.so
