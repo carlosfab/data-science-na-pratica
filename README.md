@@ -77,6 +77,14 @@ Aqui está um resumo dos passos que você precisa seguir:
 |--------|-----------|----------------------|
 | **1 - Introdução ao Data Sciece** | Apresentação do conteúdo do curso, conceitos fundamentais da Ciência de Dados e *Data-driven Decisions*. | [Módulo 1](notebooks/01_introducao_ao_data_science) |
 | **2 - Análise e Exploração de Dados** | Aprenda a importar dados, fazer a limpeza e extrair informações relevantes usando a biblioteca `pandas`. | [Módulo 2](notebooks/02_analise_e_exploracao_de_dados) |
+| **3 - Visualização de Dados** | Aprenda a criar visualizações informativas e impactantes com `matplotlib`. | [Módulo 3](notebooks/03_visualizacao_de_dados/) |
+| **4 - Data Storytelling** | Conte histórias com dados, e aumente o impacto do seu trabalho. | [Módulo 4](notebooks/04_data_storytelling/) |
+| **5 - Introdução ao Machine Learning** | Aprenda Machine Learning do zero. | [Módulo 5](notebooks/05_intro_ao_machine_learning/) |
+| **6 - Machine Learning Avançado** | Aplicações e técnicas avançadas de Machine Learning. | [Módulo 6](notebooks/06_machine_learning_avancado/) |
+| **7 - Auto Machine Learning** | Ganhe tempo e performance com Auto Machine Learning. | [Módulo 7](notebooks/07_auto_machine_learning/) |
+| **8 - Criando um Projeto do Zero** | Construa um projeto real completo, da ideia à solução. | [Módulo 8](notebooks/08_projeto_do_zero/) |
+| **9 - Deploy de Aplicações de Machine Learning** | Coloque seu modelo em Produção. | [Módulo 9](notebooks/09_deploy/) |
+| **10 - Deep Learning** | Aprenda a utilizar ténicas de Deep Learning. | [Módulo 10](notebooks/10_deep_learning/) |
 
 ## 🚀 Projetos
 
