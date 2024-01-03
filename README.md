@@ -86,9 +86,6 @@ Aqui está um resumo dos passos que você precisa seguir:
 | **9 - Deploy de Aplicações de Machine Learning** | Coloque seu modelo em Produção. | [Módulo 9](notebooks/09_deploy/) |
 | **10 - Deep Learning** | Aprenda a utilizar ténicas de Deep Learning. | [Módulo 10](notebooks/10_deep_learning/) |
 
-## 🚀 Projetos
-
-# TODO
 
 ## Sobre os Instrutores
 
@@ -97,5 +94,5 @@ Carlos Melo é <strong>Engenheiro de Visão Computacional</strong> com formaçã
 </p>
 
 <p align="left">
-[Rafael Duarte](https://github.com/rafaelnduarte) é <strong>Cientista de Dados, Colaborador e especialista em Marketing Analytics no Sigmoidal</strong>. Formado em Ciência de Dados, com <strong>MBA e Master's em Big Data e Business Intelligence</strong>.
+Rafael Duarte é <strong>Cientista de Dados, Colaborador e especialista em Marketing Analytics no Sigmoidal</strong>. Formado em Ciência de Dados, com <strong>MBA e Master's em Big Data e Business Intelligence</strong>.
 </p>
